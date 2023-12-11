@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "665178765558",
+    "project_id": "practice-reactnative-f4de1",
+    "storage_bucket": "practice-reactnative-f4de1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665178765558:android:53b69249b71ec0b38a94d7",
+        "android_client_info": {
+          "package_name": "com.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665178765558-n08k18s830j3pu632bnaqk928otfqck8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebasedemo",
+            "certificate_hash": "c93abb9fcb08a2af7b78caf5344098486acd4f25"
+          }
+        },
+        {
+          "client_id": "665178765558-p671fg0p194lksgg3el0pku3np8g9dad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQRNvRtf0r-BJRgCCMOC0_PiUj6jup2XY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665178765558-p671fg0p194lksgg3el0pku3np8g9dad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
